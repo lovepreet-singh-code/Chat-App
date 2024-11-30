@@ -32,7 +32,7 @@ section.chat__section {
     margin-left: 10px;
 }
 .message__area{
-    height: 500px;
+    height: 200px;
     padding: 16px;
     display: flex;
     flex-direction: column;
@@ -40,7 +40,7 @@ section.chat__section {
     padding-top: 40px;
 }
 textarea {
-    width: 100%;
+    width: 500%;
     border: none;
     padding: 20px;
     font-size: 16px;
